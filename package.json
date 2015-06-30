@@ -1,0 +1,8 @@
+{
+  "name": "Connect-Crash",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
+}
